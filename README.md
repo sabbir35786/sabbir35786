@@ -21,8 +21,12 @@
   Next iteration of the auto-poster with improved architecture and UI.
 
 ### AI & Productivity Tools
+
+- **[flowo](https://github.com/sabbir35786/flowo)**
+  plan your life alongside your goal you want to achieve.
+  
 - **[life-ai](https://github.com/sabbir35786/life-ai)**  
-  Life assistant / agent application with backend, frontend, and database components. Live demo: [life-ai-alpha.vercel.app](https://life-ai-alpha.vercel.app)
+  Life assistant / agent application with backend, frontend, and database components. 
 
 - **[Cognitive-Ai](https://github.com/sabbir35786/Cognitive-Ai)**  
   Cognitive AI experiments and applications built in Python.
