@@ -17,22 +17,10 @@
 - **[auto_poster](https://github.com/sabbir35786/auto_poster)** & **[AUTOPOST](https://github.com/sabbir35786/AUTOPOST)**  
   Full-stack agentic AI system (FastAPI + Next.js) that automatically generates content and publishes to Facebook/Instagram pages. Includes scheduling, Supabase integration, and Meta OAuth.
 
-- **[AutoPost-v2](https://github.com/sabbir35786/AutoPost-v2)**  
-  Next iteration of the auto-poster with improved architecture and UI.
-
 ### AI & Productivity Tools
 
 - **[flowo](https://github.com/sabbir35786/flowo)**
   plan your life alongside your goal you want to achieve.
-  
-- **[life-ai](https://github.com/sabbir35786/life-ai)**  
-  Life assistant / agent application with backend, frontend, and database components. 
-
-- **[Cognitive-Ai](https://github.com/sabbir35786/Cognitive-Ai)**  
-  Cognitive AI experiments and applications built in Python.
-
-- **[system-arise](https://github.com/sabbir35786/system-arise)**  
-  React + Vite + Supabase + Gemini AI application. A futuristic command-center style interface.
 
 ### Data Science & ML
 - **[EDA](https://github.com/sabbir35786/EDA)**  
@@ -42,8 +30,6 @@
   Kaggle Titanic survival prediction using TensorFlow Gradient Boosted Trees (GBT).
 
 ### Other
-- **[MessMate](https://github.com/sabbir35786/MessMate)**  
-  Utility / lifestyle application.
 
 - **[Resume-](https://github.com/sabbir35786/Resume-)**  
   Personal portfolio / "website of everything".
